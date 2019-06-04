@@ -3,17 +3,17 @@ import 'package:flutter/material.dart';
 void main() {
   runApp(
     MaterialApp(
+      title: "I am an app",
       home: Scaffold(
-        backgroundColor: Colors.blueGrey,
-        appBar: AppBar(
-          title: Text("I am very rich"),
-          backgroundColor: Colors.blueGrey[900],
-        ),
-        body: Center(
-          child: Image.network(
-              'https://venturebeat.com/wp-content/uploads/2019/02/google-flutter-logo-white.png?fit=400%2C200&strip=all'),
-        ),
-      ),
+          backgroundColor: Colors.green[300],
+          appBar: AppBar(
+            title: Text("Anna Hemman zieht es in die Welt"),
+            backgroundColor: Colors.green[800],
+          ),
+          body: Center(
+            child: Image.network(
+                'https://media04.meinanzeiger.de/article/2014/11/04/9/117079_L.jpg?1556343184'),
+          )),
     ),
   );
 }
