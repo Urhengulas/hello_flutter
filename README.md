@@ -13,9 +13,9 @@ Cause I want to keep the repo small I will only work on one main.dart file. To a
 ### Flutter layout challenge
 - commit: Build flutter layouts challenge app (from scratch) - eef8326b8e81eacec8b153478d6e0214bcec7761
 
-![layout challenge](img/layout_challenge.png)
+![layout challenge](steps/layout_challenge.png)
 
 ### Business Card App
 - commit: Business card improved solution - b596089fd0a37e2b4299766cabb8fdb18ac98322
 
-![business card app](img/flutter_business_card.png)
+![business card app](steps/flutter_business_card.png)
