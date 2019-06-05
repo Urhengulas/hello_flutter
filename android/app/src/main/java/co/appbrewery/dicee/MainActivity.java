@@ -1,4 +1,4 @@
-package com.example.hello_flutter;
+package co.appbrewery.dicee;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;

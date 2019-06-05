@@ -18,14 +18,3 @@ flutter:
   uses-material-design: true
   assets:
     - img/
-  fonts:
-    - family: Satisfy
-      fonts:
-        - asset: fonts/Satisfy-Regular.ttf
-    - family: SpaceMono
-      fonts:
-        - asset: fonts/SpaceMono-Regular.ttf
-        - asset: fonts/SpaceMono-Italic.ttf
-          style: italic
-        - asset: fonts/SpaceMono-Bold.ttf
-          weight: 700
