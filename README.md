@@ -1,16 +1,21 @@
 # hello_flutter
 
-A new Flutter project.
+In this repo I will do and track all the exercises for AppBreweries "The Complete Flutter Development Bootcamp Using Dart".
 
-## Getting Started
+**Table of content**
+- [Steps](#steps)
+  - [Flutter layout challenge](#flutter-layout-challenge)
+  - [Business Card App](#business-card-app)
 
-This project is a starting point for a Flutter application.
+## Steps
+Cause I want to keep the repo small I will only work on one main.dart file. To access the different exercise projects you need to travel to the respective commit.
 
-A few resources to get you started if this is your first Flutter project:
+### Flutter layout challenge
+- commit: Build flutter layouts challenge app (from scratch) - eef8326b8e81eacec8b153478d6e0214bcec7761
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![layout challenge](img/layout_challenge.png)
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+### Business Card App
+- commit: Business card improved solution - b596089fd0a37e2b4299766cabb8fdb18ac98322
+
+![business card app](img/flutter_business_card.png)
