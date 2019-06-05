@@ -41,46 +41,30 @@ class YourApp extends StatelessWidget {
                   ),
                 ),
                 Container(
-                  child: Divider(),
-                  margin: EdgeInsets.only(left: 40.0, right: 40.0),
+                  height: 20.0,
+                  width: 200.0,
+                  child: Divider(
+                    color: Colors.teal.shade900,
+                  ),
                 ),
-                Container(
+                Card(
                   margin: EdgeInsets.symmetric(horizontal: 20.0, vertical: 5.0),
-                  padding: EdgeInsets.all(10.0),
-                  decoration: BoxDecoration(
-                      borderRadius: BorderRadius.all(
-                        Radius.circular(10.0),
-                      ),
-                      color: Colors.white),
-                  child: Row(
-                    children: <Widget>[
-                      Icon(Icons.phone, color: Colors.teal),
-                      SizedBox(
-                        width: 10.0,
-                      ),
-                      Text("+49 151 67476536"),
-                    ],
+                  child: ListTile(
+                    leading: Icon(
+                      Icons.phone,
+                      color: Colors.teal,
+                    ),
+                    title: Text("+49 15167476536"),
                   ),
                 ),
-                Container(
-                  margin: EdgeInsets.symmetric(
-                    vertical: 5.0,
-                    horizontal: 20.0,
-                  ),
-                  padding: EdgeInsets.all(10.0),
-                  decoration: BoxDecoration(
-                      borderRadius: BorderRadius.all(
-                        Radius.circular(10.0),
-                      ),
-                      color: Colors.white),
-                  child: Row(
-                    children: <Widget>[
-                      Icon(Icons.email, color: Colors.teal),
-                      SizedBox(
-                        width: 10.0,
-                      ),
-                      Text("joheihe@web.de"),
-                    ],
+                Card(
+                  margin: EdgeInsets.symmetric(horizontal: 20.0, vertical: 5.0),
+                  child: ListTile(
+                    leading: Icon(
+                      Icons.email,
+                      color: Colors.teal,
+                    ),
+                    title: Text("joheihe@web.de"),
                   ),
                 )
               ],
