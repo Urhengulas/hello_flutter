@@ -27,7 +27,7 @@ Cause I want to keep the repo small I will only work on one main.dart file. To a
 
 - commit: Dicee collective rolling solution - 46abb349749354598de63890095470327af20c1d
 
-![dicee](steps/dicee.png)
+![dicee](steps/dicee.gif)
 
 ### Magic 8 (Guru)
 > App that answers all your important questions.
