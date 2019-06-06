@@ -1,4 +1,4 @@
-package co.appbrewery.magic8ball;
+package com.johann.hello_flutter;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
