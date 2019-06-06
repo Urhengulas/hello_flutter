@@ -10,14 +10,19 @@ void main() {
             title: Center(child: Text("Dicee")),
             backgroundColor: Colors.red,
           ),
-          body: YourBody(),
+          body: DicePage(),
         ),
       ),
     ),
   );
 }
 
-class YourBody extends StatelessWidget {
+class DicePage extends StatefulWidget {
+  @override
+  _DicePageState createState() => _DicePageState();
+}
+
+class _DicePageState extends State<DicePage> {
   @override
   Widget build(BuildContext context) {
     return Center(
