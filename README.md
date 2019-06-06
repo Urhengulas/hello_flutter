@@ -7,6 +7,7 @@ In this repo I will do and track all the exercises for AppBreweries "The Complet
   - [Flutter layout challenge](#flutter-layout-challenge)
   - [Business Card App](#business-card-app)
   - [Dicee](#dicee)
+  - [Magic 8 (Guru)](#magic-8-guru)
 
 ## Steps
 Cause I want to keep the repo small I will only work on one main.dart file. To access the different exercise projects you need to travel to the respective commit.
@@ -27,3 +28,10 @@ Cause I want to keep the repo small I will only work on one main.dart file. To a
 - commit: Dicee collective rolling solution - e27a558631589bdf592d7176b2dc49c2306ce40b
 
 ![dicee](steps/dicee.png)
+
+### Magic 8 (Guru)
+> App that answers all your important questions.
+
+- commit: Magic 8 solution - e7ad139c5b69411d29790af72d49bd342dcea382
+
+![magic 8](steps/magic8.gif)
