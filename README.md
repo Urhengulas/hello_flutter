@@ -6,6 +6,7 @@ In this repo I will do and track all the exercises for AppBreweries "The Complet
 - [Steps](#steps)
   - [Flutter layout challenge](#flutter-layout-challenge)
   - [Business Card App](#business-card-app)
+  - [Dicee](#dicee)
 
 ## Steps
 Cause I want to keep the repo small I will only work on one main.dart file. To access the different exercise projects you need to travel to the respective commit.
@@ -19,3 +20,10 @@ Cause I want to keep the repo small I will only work on one main.dart file. To a
 - commit: Business card improved solution - b596089fd0a37e2b4299766cabb8fdb18ac98322
 
 ![business card app](steps/flutter_business_card.png)
+
+### Dicee
+> Roll two dice randomly.
+
+- commit: Dicee collective rolling solution - e27a558631589bdf592d7176b2dc49c2306ce40b
+
+![dicee](steps/dicee.png)
