@@ -8,6 +8,7 @@ In this repo I will do and track all the exercises for AppBreweries "The Complet
   - [Business Card App](#business-card-app)
   - [Dicee](#dicee)
   - [Magic 8 (Guru)](#magic-8-guru)
+  - [Xylophone](#xylophone)
 
 ## Steps
 Cause I want to keep the repo small I will only work on one main.dart file. To access the different exercise projects you need to travel to the respective commit.
@@ -35,3 +36,11 @@ Cause I want to keep the repo small I will only work on one main.dart file. To a
 - commit: Magic 8 solution - e7ad139c5b69411d29790af72d49bd342dcea382
 
 ![magic 8](steps/magic8.gif)
+
+### Xylophone
+> Play 7 different sounds interactively
+
+- commit: Xylophone solution - d96b830b15b8f6009bffc2635572ea13b4c0a7c3
+
+![xylophone](steps/xylophone.gif)
+_(there is sound ;D)_
