@@ -25,7 +25,7 @@ Cause I want to keep the repo small I will only work on one main.dart file. To a
 ### Dicee
 > Roll two dice randomly.
 
-- commit: Dicee collective rolling solution - e27a558631589bdf592d7176b2dc49c2306ce40b
+- commit: Dicee collective rolling solution - 46abb349749354598de63890095470327af20c1d
 
 ![dicee](steps/dicee.png)
 
