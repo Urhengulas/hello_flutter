@@ -2,6 +2,8 @@
 
 In this repo I will do and track all the exercises for AppBreweries "The Complete Flutter Development Bootcamp Using Dart".
 
+_(You can also view that README more nicely under [https://urhengulas.github.io/hello_flutter/](https://urhengulas.github.io/hello_flutter))_
+
 **Table of content**
 - [Steps](#steps)
   - [Flutter layout challenge](#flutter-layout-challenge)
