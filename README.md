@@ -9,6 +9,7 @@ In this repo I will do and track all the exercises for AppBreweries "The Complet
   - [Dicee](#dicee)
   - [Magic 8 (Guru)](#magic-8-guru)
   - [Xylophone](#xylophone)
+  - [Quizzler](#quizzler)
 
 ## Steps
 Cause I want to keep the repo small I will only work on one main.dart file. To access the different exercise projects you need to travel to the respective commit.
@@ -44,3 +45,10 @@ Cause I want to keep the repo small I will only work on one main.dart file. To a
 
 ![xylophone](steps/xylophone.gif)
 _(there is sound ;D)_
+
+### Quizzler
+> Simple true false game
+
+- commit: Quizzler solution - 0d3bf3333209972c8d201442edfba98443dc18f4
+
+![quizzler](steps/quizzler.gif)
