@@ -1,6 +1,6 @@
 # hello_flutter
 
-In this repo I will do and track all the exercises for AppBreweries "The Complete Flutter Development Bootcamp Using Dart".
+In this repo I will do and track all the exercises for AppBreweries "[The Complete Flutter Development Bootcamp Using Dart](https://www.appbrewery.co/courses/enrolled/548873)".
 
 _(You can also view that README more nicely under [https://urhengulas.github.io/hello_flutter/](https://urhengulas.github.io/hello_flutter))_
 
